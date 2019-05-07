@@ -1,0 +1,21 @@
+GIT -----> GITFLOW
+
+GIT CLI ---> COMANDO
+ENTESIONES --> GUI
+
+VSCODE
+VS2017
+TORTOICE
+
+________CLOUD____________
+Azure de devops
+GitHub
+Bittbuchet
+_______ ON PREMISE_______
+GITLAB
+
+
+SLA
+TIEMPO
+RECURSOS
+
